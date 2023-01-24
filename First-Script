@@ -1,7 +1,7 @@
 # Script for downloading the SRA data from accession number 
 # This is using the SRA toolkit 
 
-module load sratoolkit
+C:\Users\adity\OneDrive\Documents\sratoolkit.3.0.2-win64\sratoolkit.3.0.2-win64 load sratoolkit
 fastq-dump GSE121039
 
 
